@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Updating a typo on paddlepaddle.md (#9108)
